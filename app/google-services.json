@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "386533402956",
+    "project_id": "pushapp-5710f"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386533402956:android:6628efe085ca7e1b",
+        "android_client_info": {
+          "package_name": "johnfe.pushapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnf7xrosEx8XCalAW5diME7VfInFyenPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
